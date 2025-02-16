@@ -2,8 +2,8 @@
 
 <div>
   <a href="https://github.com/ketleyV">
-  <img heigth="180cm" src="https://github-readme-stats.vercel.app/api?username=KetleyV&show_icons=true&theme=dracula&include_all_comits=true"&acount_private=true"/>
-  <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetleyV&layout=compact&langs_count=16&theme=dracula"/>
+  <img heigth="120cm" src="https://github-readme-stats.vercel.app/api?username=KetleyV&show_icons=true&theme=dracula&include_all_comits=true"&acount_private=true"/>
+  <img height="120cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetleyV&layout=compact&langs_count=16&theme=dracula"/>
 </div>
 
 <div style="display: inline_block"><br>
