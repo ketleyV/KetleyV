@@ -13,7 +13,7 @@
   <img align="center" alt="ketley-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="ketley-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="ketley-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="kety-gif" src="https://media1.tenor.com/m/zzJ2UjP648IAAAAd/cheering-cute.gif" width="100px">
+  <img align="right" alt="kety-gif" src="https://media1.tenor.com/m/zzJ2UjP648IAAAAd/cheering-cute.gif" width="150px">
 </div>
   
   ##
@@ -23,3 +23,9 @@
   <a href="https://www.linkedin.com/in/ketley-vitoria-2808522ab" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
+
