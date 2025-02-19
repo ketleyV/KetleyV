@@ -1,6 +1,6 @@
 ## Olá! Eu sou Ketley Vitoria
 
-<h5>Olá! Me chamo Ketley Vitória, tenho 21 anos e atualmente estou no 4º semestre do curso de Análise e Desenvolvimento de Sistemas. Há 1 ano, venho me dedicando ao desenvolvimento fullstack, com foco em tecnologias modernas e eficientes para criar soluções digitais de qualidade.</h5>
+<h5>Há 1 ano, venho me dedicando ao desenvolvimento fullstack, com foco em tecnologias modernas e eficientes para criar soluções digitais de qualidade.</h5>
 
 <div>
   <a href="https://github.com/ketleyV">
