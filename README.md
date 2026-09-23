@@ -1,6 +1,6 @@
 ## Olá! Eu sou Ketley Vitoria
 
-<h5>Há 1 ano, venho me dedicando ao desenvolvimento fullstack, com foco em tecnologias modernas e eficientes para criar soluções digitais de qualidade.</h5>
+<h5></h5>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="ketley-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
